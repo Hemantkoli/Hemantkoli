@@ -43,4 +43,7 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hemantkoli&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://app.daily.dev/Hemant21"><img src="https://api.daily.dev/devcards/b54b3e99aec848fb8618943f2f0c5e10.png?r=r0e" width="400" alt="Hemant Koli's Dev Card"/></a>
+  
 </div>
