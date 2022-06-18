@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemantkoli&label=Profile%20views&color=0e75b6&style=flat" alt="Hemantkoli" /> </p>
 
 
-[<img src="https://img.shields.io/twitter/follow/sumit_zip?logo=twitter&style=for-the-badge" />](https://twitter.com/Hemant_Koli21)
-[<img src="https://img.shields.io/youtube/channel/views/UClW8d1f5m0QAE_Ig024EP6A?logo=youtube&style=for-the-badge">](https://www.youtube.com/channel/UCUioVU-rI5WnomzU-hOvB3Q)
-[<img src="https://img.shields.io/github/followers/Dey-Sumit?logo=github&style=for-the-badge&logoColor=white">](https://github.com/Hemantkoli)
+[<img src="https://img.shields.io/twitter/follow/Hemant_Koli21?logo=twitter&style=for-the-badge" />](https://twitter.com/Hemant_Koli21)
+[<img src="https://img.shields.io/youtube/channel/views/UCUioVU-rI5WnomzU-hOvB3Q?logo=youtube&style=for-the-badge">](https://www.youtube.com/channel/UCUioVU-rI5WnomzU-hOvB3Q)
+[<img src="https://img.shields.io/github/followers/Hemantkoli?logo=github&style=for-the-badge&logoColor=white">](https://github.com/Hemantkoli)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hemantkoli14321@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hemant-koli-8279a8156/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://portfolio-hemantkoli.vercel.app/)
